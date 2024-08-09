@@ -1,1 +1,0 @@
-# United Share Developer Platform
